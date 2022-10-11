@@ -1,4 +1,8 @@
-# node-red-contrib-melcloud
+# node-red-contrib-melcloud-for-geodan
+
+This is an atempt to adapt the node-red-contrib-melcloud created by ysimonx to work with the geodan heat pump.
+
+
 node-red node for mitsubishi with melcloud API
 
 Enter your credentials (email & password) from your Mitsubishi
