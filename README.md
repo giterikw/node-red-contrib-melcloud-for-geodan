@@ -2,6 +2,9 @@
 
 This is an atempt to adapt the node-red-contrib-melcloud created by ysimonx to work with the geodan heat pump.
 
+Text bellow is from ysimonx
+
+-- --- -- 
 
 node-red node for mitsubishi with melcloud API
 
